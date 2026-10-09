@@ -67,14 +67,6 @@ AI-Proctored-Examination-System/
 * Improve the digital assessment workflow.
 * Provide a foundation for future examination-management features.
 
-## 👨‍💻 Developer
-
-**Ishaq Muaviya**
-
-GitHub: [@mr00100](https://github.com/mr00100)
-
-
-
 ---
 
 **AI-Proctored-Examination-System** — Exploring smarter and more secure digital examinations.
