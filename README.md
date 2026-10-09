@@ -33,7 +33,7 @@ Examples:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/AI-Proctored-Examination-System.git
+   git clone https://github.com/mr00100/AI-Proctored-Examination-System.git
    ```
 
 2. Navigate to the project directory:
@@ -79,7 +79,7 @@ Examples:
 
 **Ishaq Muaviya**
 
-GitHub: [0086-web](https://github.com/0086-web)
+GitHub: [mr00100](https://github.com/mr00100)
 
 ## 📄 License
 
