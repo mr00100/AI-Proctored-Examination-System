@@ -8,7 +8,7 @@ The **AI-Proctored-Examination-System** is a web application project focused on 
 
 ## ✨ Features
 
-* 🎓 Online examination system concept
+* 🎓 Online examination system concept.
 * 🔐 Focus on examination security and academic integrity
 * 👁️ Examination monitoring capabilities, depending on implementation
 * 💻 Modern web application architecture
