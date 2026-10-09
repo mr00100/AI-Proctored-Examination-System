@@ -1,64 +1,83 @@
-# AI-Proctored-Examination-System
+# AI-Proctored-Examination-System 🎓
 
-An AI-powered examination monitoring system designed to promote academic integrity by monitoring students during online exams and helping identify suspicious activities.
+An AI-powered examination management system designed to support secure online assessments, examination monitoring, and academic integrity through a modern web-based interface.
 
 ## 🚀 Overview
 
-The AI-Proctored-Examination-System aims to make online examinations more secure, reliable, and efficient. It is designed to assist exam administrators in monitoring examination sessions and identifying potentially suspicious behavior.
+The **AI-Proctored-Examination-System** is a web application project focused on improving the online examination experience. It provides a foundation for building examination workflows and monitoring capabilities to help institutions manage digital assessments.
 
-## ✨ Key Features
+## ✨ Features
 
-* 🤖 **AI-Based Monitoring** — Supports intelligent examination monitoring.
-* 👁️ **Suspicious Activity Detection** — Helps identify potentially irregular behavior during exams.
-* 🎓 **Online Examination Support** — Designed for digitally managed examinations.
-* 🔐 **Exam Integrity** — Helps reduce opportunities for academic misconduct.
-* 📊 **Monitoring and Review** — Supports the review of examination activity by authorized administrators.
-
-*Note: Available features depend on the project's actual implementation.*
+* 🎓 Online examination system concept
+* 🔐 Focus on examination security and academic integrity
+* 👁️ Examination monitoring capabilities, depending on implementation
+* 💻 Modern web application architecture
+* 📱 Responsive user interface, depending on the implemented design
+* 🗄️ Database configuration using Drizzle ORM tooling
 
 ## 🛠️ Technology Stack
 
-The technologies used depend on the implementation of this project. Update this section with the frameworks, programming languages, databases, and AI libraries used in your codebase.
+* **Next.js** — Web application framework
+* **TypeScript** — Type-safe JavaScript development
+* **Drizzle ORM** — Database toolkit
+* **ESLint** — Code quality and linting
+* **PostCSS** — CSS processing
 
-Examples:
+## 📂 Project Structure
 
-* Python
-* OpenCV
-* Machine Learning / Computer Vision
-* Flask
-* HTML, CSS, and JavaScript
+```text
+AI-Proctored-Examination-System/
+├── src/
+├── drizzle.config.json
+├── eslint.config.mjs
+├── next.config.ts
+├── package.json
+├── postcss.config.mjs
+└── tsconfig.json
+```
 
-## ⚙️ Installation and Setup
+## ⚙️ Run Locally
 
-1. Clone the repository:
+**Prerequisites:** Node.js and npm.
+
+1. Open the project folder in your terminal.
+
+2. Install the dependencies:
 
    ```bash
-   git clone https://github.com/mr00100/AI-Proctored-Examination-System.git
+   npm install
    ```
 
-2. Navigate to the project directory:
+3. Start the development server:
 
    ```bash
-   cd AI-Proctored-Examination-System
+   npm run dev
    ```
 
-3. Install the required dependencies according to your project's configuration.
+4. Open the local URL shown in the terminal, usually:
 
-   For a Python project with a `requirements.txt` file:
+   `http://localhost:3000`
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+*Note: Available npm scripts and any database setup requirements depend on the project's configuration.*
 
-4. Follow the project's configuration instructions and run the appropriate entry-point file.
+## 🎯 Project Goals
 
-## ▶️ Usage
+* Support the development of secure online examinations.
+* Explore AI-assisted examination monitoring.
+* Improve the digital assessment workflow.
+* Provide a foundation for future examination-management features.
 
-1. Start the application using the command appropriate for your project.
-2. Open the application in your browser or desktop environment.
-3. Configure the examination session.
-4. Start monitoring according to the available system features.
-5. Review any flagged activities and verify them before drawing conclusions.
+## 👨‍💻 Developer
+
+**Ishaq Muaviya**
+
+GitHub: [@mr00100](https://github.com/mr00100)
+
+
+
+---
+
+**AI-Proctored-Examination-System** — Exploring smarter and more secure digital examinations.
 
 ## 🔒 Privacy and Responsible Use
 
